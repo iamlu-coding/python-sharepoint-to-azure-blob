@@ -1,0 +1,15 @@
+{
+    "share_point": 
+        {
+            "user": "",
+            "password": "",
+            "url": "https://{subdomain}.sharepoint.com/",
+            "site": "https://{subdomain}.sharepoint.com/sites/{site_name}/",
+            "doc_library": "Shared Documents/" 
+        },
+    "azure_storage": {
+        "azure_account_name": "",
+        "azure_access_key": "",
+        "container_name": ""
+    }
+}
